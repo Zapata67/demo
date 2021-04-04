@@ -42,7 +42,9 @@
     "jwtSecretKey": "YTI5NDMwYmM3ZTQwZmZlOWJiZmI2NzkyNzZhYTFiNjc5MmRkZWZkNGU1Zjk4YmMyNzI0ODM5NzU3Yzg3Y2M0NWZkMDIxNjJkZGYzM2IxYTM4NzhhY2I0OWQ2ZjlkN2RkMmUyMGEyZDNlNDg3NmI2MDBlODZhZDJlZGZiZTQ1NWU=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1617505173000
   },
   "git-provider": "GitHub",
   "git-company": "Zapata67",
